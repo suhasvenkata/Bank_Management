@@ -1,7 +1,6 @@
 # Bank_Management
 
-This was my third sem CPP mini project. This is a bank management mini-project which consists of features like creating bank account, deposit,withdrawl, displaying bank details, updation etc.
-I made the repo public, so any changes you would like to make please feel free to make 
+We completed our third semester CPP mini project, a bank management system. It encompasses functionalities such as creating bank accounts, handling deposits and withdrawals, displaying account details, and managing updates. I've made the repository public, so please feel free to suggest any changes or modifications you think would be beneficial.
 
 Command for running the c++ file
 
