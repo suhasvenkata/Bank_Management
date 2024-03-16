@@ -1,7 +1,6 @@
 # Bank_Management
 
-We completed our third semester CPP mini project, a bank management system. It encompasses functionalities such as creating bank accounts, handling deposits and withdrawals, displaying account details, and managing updates. I've made the repository public, so please feel free to suggest any changes or modifications you think would be beneficial.
-
+Our third semester CPP mini project, a bank management system, has been successfully finalized. It incorporates various functionalities, including the creation of bank accounts, management of deposits and withdrawals, displaying detailed account information, and facilitating updates. The repository for this project has been made public, and we welcome any suggestions or recommendations for improvements or modifications that could enhance its effectiveness. Feel free to provide feedback and insights for further refinement.
 Command for running the c++ file
 
 ```shell
